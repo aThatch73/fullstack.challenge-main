@@ -13,11 +13,11 @@ import { typeDefs, resolvers } from "./api";
 /**
  * Initialize database
  */
-import "./db";
+import "./db/services/read";
 
 const server = new ApolloServer({
   typeDefs,
-  resolvers,
+  resolvers
 });
 
 server.listen().then(({ url }) => {
