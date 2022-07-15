@@ -105,6 +105,24 @@ The very simple schema we started with to list authors is now breaking, we need 
 Please provide your answers to the questions below:
 
 1. How long did you spend on this challenge?
+
+  * I Spent about 2 hours and 50 minutes on the challenge.
+
 2. How familiar were you with libs and tools used in this challenge? (Typescript, GraphQL, Apollo, Axios, SQL, Knex, etc)
+
+  * Very familiar: TypeScript, GraphQL, SQL
+  * Fairly familiar: Apollo, Axios
+  * New: Knex
+
 3. If you had more time, what would you add or change in the codebase?
+
+  * Break some of the services into repo classes, service classes, and utilities
+  * Unit and integration testing
+  * Further analysis into edge cases
+  * Expanding more features such as delete
+
 4. Do you have any constructive feedback that you would like to share with our team?
+
+  * The exercise was enjoyable.  The initial idea that I could commit to keep track of time spent wasn't completely clear at first, but I discovered
+    how that worked after I'd already missed an early commit to show my first long break.  This results in my commit history likely showing several more
+    that the three hour guideline, so making this clearer would be helpful for future candidates.
