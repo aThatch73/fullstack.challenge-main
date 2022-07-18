@@ -117,6 +117,8 @@ Please provide your answers to the questions below:
 3. If you had more time, what would you add or change in the codebase?
 
   * Break some of the services into repo classes, service classes, and utilities
+  * Move services from db to api
+  * Other refactoring
   * Unit and integration testing
   * Further analysis into edge cases
   * Expanding more features such as delete
